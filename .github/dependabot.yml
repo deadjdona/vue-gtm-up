@@ -8,6 +8,4 @@ updates:
       day: 'friday'
     labels:
       - 'dependencies'
-    reviewers:
-      - 'Shinigami92'
     versioning-strategy: increase
