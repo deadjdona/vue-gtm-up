@@ -74,7 +74,7 @@
     "eslint-config-prettier": "~10.1.5",
     "eslint-define-config": "~2.1.0",
     "eslint-gitignore": "~0.1.0",
-    "eslint-plugin-jsdoc": "~52.0.4",
+    "eslint-plugin-jsdoc": "~59.0.2",
     "eslint-plugin-prettier": "~5.5.4",
     "eslint-plugin-spellcheck": "~0.0.20",
     "jsdom": "~26.1.0",
