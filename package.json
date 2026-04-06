@@ -86,7 +86,7 @@
     "typescript": "~5.5.4",
     "vitest": "~2.1.9",
     "vue": "^3.4.37",
-    "vue-router": "^5.0.2"
+    "vue-router": "^5.0.4"
   },
   "peerDependencies": {
     "vue": ">= 3.2.26 < 4.0.0"
