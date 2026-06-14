@@ -85,7 +85,7 @@
     "tsup": "~8.5.1",
     "typescript": "~6.0.3",
     "vitest": "~4.1.0",
-    "vue": "^3.4.37",
+    "vue": "^3.5.38",
     "vue-router": "^5.0.4"
   },
   "peerDependencies": {
